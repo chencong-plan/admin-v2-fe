@@ -1,0 +1,8 @@
+{
+  "name": "admin-v2-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chencong-plan/admin-v2-fe.git",
+  "author": "chencong-plan <1042738887@qq.com>",
+  "license": "MIT"
+}
